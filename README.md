@@ -1,3 +1,4 @@
+https://wormholerelays.com/posts/localstack-with-terraform-and-docker-for-running-aws-locally/
 # hotdog-localstack-PoC
 PoC for running AWS services(kinesis, dynamodb, lambdas) locally with Localstack
 
